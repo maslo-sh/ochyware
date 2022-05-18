@@ -1,0 +1,230 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/comparator.o",
+            "src/comparator.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/comparator.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/dir_digger.o",
+            "src/dir_digger.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/dir_digger.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/encryptor.o",
+            "src/encryptor.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/encryptor.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/lcs.o",
+            "src/lcs.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/lcs.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/logger.o",
+            "src/logger.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/logger.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/database.o",
+            "src/database.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/database.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/printer.o",
+            "src/printer.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/printer.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/main.o",
+            "src/main.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/main.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/file_utils.o",
+            "src/file_utils.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/file_utils.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/signal_handler.o",
+            "src/signal_handler.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/signal_handler.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/hasher.o",
+            "src/hasher.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/hasher.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I.",
+            "-Wall",
+            "-Wextra",
+            "-g",
+            "-U_FORTIFY_SOURCE",
+            "-fno-omit-frame-pointer",
+            "-fno-common",
+            "-Iinclude",
+            "-o",
+            "obj/log_types.o",
+            "src/log_types.c"
+        ],
+        "directory": "/home/bedogie/Desktop/bso_antywirus",
+        "file": "src/log_types.c"
+    }
+]
